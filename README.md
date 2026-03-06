@@ -9,3 +9,8 @@ The app is built for quick iteration and easy sharing of results. When a session
 - Schedule and run deep-research sessions for longer tasks.
 - Export or share conversations in common formats (including PDF).
 - Receive update and notification prompts to stay current.
+
+## Screenshots
+
+| ![Screenshot 1](screenshots/1.png) | ![Screenshot 3](screenshots/3.png) |
+|:---:|:---:|
